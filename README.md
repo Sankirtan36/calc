@@ -1,3 +1,3 @@
 # Calc
 <br>
-used:Html,Js,Css
+This Calculator is made using Js,Css,Html  with the feature of Dark and Light mode
